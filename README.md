@@ -1,9 +1,13 @@
 # twitter-image-scraper
 
+## setup
+
+### install dependencies
 ```
 pip install requests requests_oauthlib
 ```
 
+### credentials.py
 ```Python
 CONSUMER_KEY = 'CONSUMER_KEY'
 CONSUMER_SECRET = 'CONSUMER_SECRET'
