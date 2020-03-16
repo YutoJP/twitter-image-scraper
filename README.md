@@ -1,3 +1,5 @@
 # twitter-image-scraper
 
-pip install requests requests_oauthlib  
+```Shell
+pip install requests requests_oauthlib
+```
