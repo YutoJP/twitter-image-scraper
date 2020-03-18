@@ -4,7 +4,7 @@
 
 ### install dependencies
 ```
-pip install requests requests_oauthlib
+$ pip install requests requests_oauthlib
 ```
 
 ### credentials.py
